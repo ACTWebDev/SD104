@@ -1,0 +1,11 @@
+C:\Users\steve.rossiter\source\repos\Lists\Lists\bin\Debug\netcoreapp3.0\Lists.exe
+C:\Users\steve.rossiter\source\repos\Lists\Lists\bin\Debug\netcoreapp3.0\Lists.deps.json
+C:\Users\steve.rossiter\source\repos\Lists\Lists\bin\Debug\netcoreapp3.0\Lists.runtimeconfig.json
+C:\Users\steve.rossiter\source\repos\Lists\Lists\bin\Debug\netcoreapp3.0\Lists.runtimeconfig.dev.json
+C:\Users\steve.rossiter\source\repos\Lists\Lists\bin\Debug\netcoreapp3.0\Lists.dll
+C:\Users\steve.rossiter\source\repos\Lists\Lists\bin\Debug\netcoreapp3.0\Lists.pdb
+C:\Users\steve.rossiter\source\repos\Lists\Lists\obj\Debug\netcoreapp3.0\Lists.AssemblyInfoInputs.cache
+C:\Users\steve.rossiter\source\repos\Lists\Lists\obj\Debug\netcoreapp3.0\Lists.AssemblyInfo.cs
+C:\Users\steve.rossiter\source\repos\Lists\Lists\obj\Debug\netcoreapp3.0\Lists.dll
+C:\Users\steve.rossiter\source\repos\Lists\Lists\obj\Debug\netcoreapp3.0\Lists.pdb
+C:\Users\steve.rossiter\source\repos\Lists\Lists\obj\Debug\netcoreapp3.0\Lists.csprojAssemblyReference.cache
