@@ -1,0 +1,10 @@
+C:\Users\steve.rossiter\source\repos\Lesson4SpamChecker\Lesson4SpamChecker\obj\Debug\netcoreapp3.0\Lesson4SpamChecker.AssemblyInfoInputs.cache
+C:\Users\steve.rossiter\source\repos\Lesson4SpamChecker\Lesson4SpamChecker\obj\Debug\netcoreapp3.0\Lesson4SpamChecker.AssemblyInfo.cs
+C:\Users\steve.rossiter\source\repos\Lesson4SpamChecker\Lesson4SpamChecker\bin\Debug\netcoreapp3.0\Lesson4SpamChecker.exe
+C:\Users\steve.rossiter\source\repos\Lesson4SpamChecker\Lesson4SpamChecker\bin\Debug\netcoreapp3.0\Lesson4SpamChecker.deps.json
+C:\Users\steve.rossiter\source\repos\Lesson4SpamChecker\Lesson4SpamChecker\bin\Debug\netcoreapp3.0\Lesson4SpamChecker.runtimeconfig.json
+C:\Users\steve.rossiter\source\repos\Lesson4SpamChecker\Lesson4SpamChecker\bin\Debug\netcoreapp3.0\Lesson4SpamChecker.runtimeconfig.dev.json
+C:\Users\steve.rossiter\source\repos\Lesson4SpamChecker\Lesson4SpamChecker\bin\Debug\netcoreapp3.0\Lesson4SpamChecker.dll
+C:\Users\steve.rossiter\source\repos\Lesson4SpamChecker\Lesson4SpamChecker\bin\Debug\netcoreapp3.0\Lesson4SpamChecker.pdb
+C:\Users\steve.rossiter\source\repos\Lesson4SpamChecker\Lesson4SpamChecker\obj\Debug\netcoreapp3.0\Lesson4SpamChecker.dll
+C:\Users\steve.rossiter\source\repos\Lesson4SpamChecker\Lesson4SpamChecker\obj\Debug\netcoreapp3.0\Lesson4SpamChecker.pdb

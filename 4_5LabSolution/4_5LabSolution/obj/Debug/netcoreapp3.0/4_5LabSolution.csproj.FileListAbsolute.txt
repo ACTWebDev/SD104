@@ -1,0 +1,11 @@
+C:\Users\steve.rossiter\source\repos\4_5LabSolution\4_5LabSolution\bin\Debug\netcoreapp3.0\4_5LabSolution.exe
+C:\Users\steve.rossiter\source\repos\4_5LabSolution\4_5LabSolution\bin\Debug\netcoreapp3.0\4_5LabSolution.deps.json
+C:\Users\steve.rossiter\source\repos\4_5LabSolution\4_5LabSolution\bin\Debug\netcoreapp3.0\4_5LabSolution.runtimeconfig.json
+C:\Users\steve.rossiter\source\repos\4_5LabSolution\4_5LabSolution\bin\Debug\netcoreapp3.0\4_5LabSolution.runtimeconfig.dev.json
+C:\Users\steve.rossiter\source\repos\4_5LabSolution\4_5LabSolution\bin\Debug\netcoreapp3.0\4_5LabSolution.dll
+C:\Users\steve.rossiter\source\repos\4_5LabSolution\4_5LabSolution\bin\Debug\netcoreapp3.0\4_5LabSolution.pdb
+C:\Users\steve.rossiter\source\repos\4_5LabSolution\4_5LabSolution\obj\Debug\netcoreapp3.0\4_5LabSolution.csprojAssemblyReference.cache
+C:\Users\steve.rossiter\source\repos\4_5LabSolution\4_5LabSolution\obj\Debug\netcoreapp3.0\4_5LabSolution.AssemblyInfoInputs.cache
+C:\Users\steve.rossiter\source\repos\4_5LabSolution\4_5LabSolution\obj\Debug\netcoreapp3.0\4_5LabSolution.AssemblyInfo.cs
+C:\Users\steve.rossiter\source\repos\4_5LabSolution\4_5LabSolution\obj\Debug\netcoreapp3.0\4_5LabSolution.dll
+C:\Users\steve.rossiter\source\repos\4_5LabSolution\4_5LabSolution\obj\Debug\netcoreapp3.0\4_5LabSolution.pdb
