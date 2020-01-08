@@ -1,0 +1,11 @@
+C:\Users\steve.rossiter\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.0\Arrays.exe
+C:\Users\steve.rossiter\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.0\Arrays.deps.json
+C:\Users\steve.rossiter\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.0\Arrays.runtimeconfig.json
+C:\Users\steve.rossiter\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.0\Arrays.runtimeconfig.dev.json
+C:\Users\steve.rossiter\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.0\Arrays.dll
+C:\Users\steve.rossiter\source\repos\Arrays\Arrays\bin\Debug\netcoreapp3.0\Arrays.pdb
+C:\Users\steve.rossiter\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.0\Arrays.csprojAssemblyReference.cache
+C:\Users\steve.rossiter\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\steve.rossiter\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.0\Arrays.AssemblyInfo.cs
+C:\Users\steve.rossiter\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.0\Arrays.dll
+C:\Users\steve.rossiter\source\repos\Arrays\Arrays\obj\Debug\netcoreapp3.0\Arrays.pdb
