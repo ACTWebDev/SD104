@@ -1,0 +1,11 @@
+C:\Users\steve.rossiter\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.0\DesignPatterns.exe
+C:\Users\steve.rossiter\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.0\DesignPatterns.deps.json
+C:\Users\steve.rossiter\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.0\DesignPatterns.runtimeconfig.json
+C:\Users\steve.rossiter\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.0\DesignPatterns.runtimeconfig.dev.json
+C:\Users\steve.rossiter\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.0\DesignPatterns.dll
+C:\Users\steve.rossiter\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.0\DesignPatterns.pdb
+C:\Users\steve.rossiter\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.0\DesignPatterns.csprojAssemblyReference.cache
+C:\Users\steve.rossiter\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.0\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\steve.rossiter\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.0\DesignPatterns.AssemblyInfo.cs
+C:\Users\steve.rossiter\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.0\DesignPatterns.dll
+C:\Users\steve.rossiter\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.0\DesignPatterns.pdb
