@@ -1,0 +1,11 @@
+D:\Users\s.rossiter\source\repos\Lesson11_Tutorial\Lesson11_Tutorial\bin\Debug\netcoreapp2.1\Lesson11_Tutorial.deps.json
+D:\Users\s.rossiter\source\repos\Lesson11_Tutorial\Lesson11_Tutorial\bin\Debug\netcoreapp2.1\Lesson11_Tutorial.runtimeconfig.json
+D:\Users\s.rossiter\source\repos\Lesson11_Tutorial\Lesson11_Tutorial\bin\Debug\netcoreapp2.1\Lesson11_Tutorial.runtimeconfig.dev.json
+D:\Users\s.rossiter\source\repos\Lesson11_Tutorial\Lesson11_Tutorial\bin\Debug\netcoreapp2.1\Lesson11_Tutorial.dll
+D:\Users\s.rossiter\source\repos\Lesson11_Tutorial\Lesson11_Tutorial\obj\Debug\netcoreapp2.1\Lesson11_Tutorial.csprojAssemblyReference.cache
+D:\Users\s.rossiter\source\repos\Lesson11_Tutorial\Lesson11_Tutorial\obj\Debug\netcoreapp2.1\Lesson11_Tutorial.csproj.CoreCompileInputs.cache
+D:\Users\s.rossiter\source\repos\Lesson11_Tutorial\Lesson11_Tutorial\obj\Debug\netcoreapp2.1\Lesson11_Tutorial.AssemblyInfoInputs.cache
+D:\Users\s.rossiter\source\repos\Lesson11_Tutorial\Lesson11_Tutorial\obj\Debug\netcoreapp2.1\Lesson11_Tutorial.AssemblyInfo.cs
+D:\Users\s.rossiter\source\repos\Lesson11_Tutorial\Lesson11_Tutorial\bin\Debug\netcoreapp2.1\Lesson11_Tutorial.pdb
+D:\Users\s.rossiter\source\repos\Lesson11_Tutorial\Lesson11_Tutorial\obj\Debug\netcoreapp2.1\Lesson11_Tutorial.dll
+D:\Users\s.rossiter\source\repos\Lesson11_Tutorial\Lesson11_Tutorial\obj\Debug\netcoreapp2.1\Lesson11_Tutorial.pdb
