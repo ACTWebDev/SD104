@@ -1,0 +1,11 @@
+D:\Users\s.rossiter\source\repos\MailExample\MailExample\bin\Debug\netcoreapp2.1\MailExample.deps.json
+D:\Users\s.rossiter\source\repos\MailExample\MailExample\bin\Debug\netcoreapp2.1\MailExample.runtimeconfig.json
+D:\Users\s.rossiter\source\repos\MailExample\MailExample\bin\Debug\netcoreapp2.1\MailExample.runtimeconfig.dev.json
+D:\Users\s.rossiter\source\repos\MailExample\MailExample\bin\Debug\netcoreapp2.1\MailExample.dll
+D:\Users\s.rossiter\source\repos\MailExample\MailExample\bin\Debug\netcoreapp2.1\MailExample.pdb
+D:\Users\s.rossiter\source\repos\MailExample\MailExample\obj\Debug\netcoreapp2.1\MailExample.csprojAssemblyReference.cache
+D:\Users\s.rossiter\source\repos\MailExample\MailExample\obj\Debug\netcoreapp2.1\MailExample.csproj.CoreCompileInputs.cache
+D:\Users\s.rossiter\source\repos\MailExample\MailExample\obj\Debug\netcoreapp2.1\MailExample.AssemblyInfoInputs.cache
+D:\Users\s.rossiter\source\repos\MailExample\MailExample\obj\Debug\netcoreapp2.1\MailExample.AssemblyInfo.cs
+D:\Users\s.rossiter\source\repos\MailExample\MailExample\obj\Debug\netcoreapp2.1\MailExample.dll
+D:\Users\s.rossiter\source\repos\MailExample\MailExample\obj\Debug\netcoreapp2.1\MailExample.pdb
