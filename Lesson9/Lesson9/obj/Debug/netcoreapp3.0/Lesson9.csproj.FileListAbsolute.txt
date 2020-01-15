@@ -1,0 +1,11 @@
+C:\Users\steve.rossiter\source\repos\Lesson9\Lesson9\obj\Debug\netcoreapp3.0\Lesson9.csprojAssemblyReference.cache
+C:\Users\steve.rossiter\source\repos\Lesson9\Lesson9\obj\Debug\netcoreapp3.0\Lesson9.AssemblyInfoInputs.cache
+C:\Users\steve.rossiter\source\repos\Lesson9\Lesson9\obj\Debug\netcoreapp3.0\Lesson9.AssemblyInfo.cs
+C:\Users\steve.rossiter\source\repos\Lesson9\Lesson9\bin\Debug\netcoreapp3.0\Lesson9.exe
+C:\Users\steve.rossiter\source\repos\Lesson9\Lesson9\bin\Debug\netcoreapp3.0\Lesson9.deps.json
+C:\Users\steve.rossiter\source\repos\Lesson9\Lesson9\bin\Debug\netcoreapp3.0\Lesson9.runtimeconfig.json
+C:\Users\steve.rossiter\source\repos\Lesson9\Lesson9\bin\Debug\netcoreapp3.0\Lesson9.runtimeconfig.dev.json
+C:\Users\steve.rossiter\source\repos\Lesson9\Lesson9\bin\Debug\netcoreapp3.0\Lesson9.dll
+C:\Users\steve.rossiter\source\repos\Lesson9\Lesson9\bin\Debug\netcoreapp3.0\Lesson9.pdb
+C:\Users\steve.rossiter\source\repos\Lesson9\Lesson9\obj\Debug\netcoreapp3.0\Lesson9.dll
+C:\Users\steve.rossiter\source\repos\Lesson9\Lesson9\obj\Debug\netcoreapp3.0\Lesson9.pdb
