@@ -1,0 +1,11 @@
+C:\Users\steve.rossiter\source\repos\SortCompare\SortCompare\bin\Debug\netcoreapp3.0\SortCompare.exe
+C:\Users\steve.rossiter\source\repos\SortCompare\SortCompare\bin\Debug\netcoreapp3.0\SortCompare.deps.json
+C:\Users\steve.rossiter\source\repos\SortCompare\SortCompare\bin\Debug\netcoreapp3.0\SortCompare.runtimeconfig.json
+C:\Users\steve.rossiter\source\repos\SortCompare\SortCompare\bin\Debug\netcoreapp3.0\SortCompare.runtimeconfig.dev.json
+C:\Users\steve.rossiter\source\repos\SortCompare\SortCompare\bin\Debug\netcoreapp3.0\SortCompare.dll
+C:\Users\steve.rossiter\source\repos\SortCompare\SortCompare\bin\Debug\netcoreapp3.0\SortCompare.pdb
+C:\Users\steve.rossiter\source\repos\SortCompare\SortCompare\obj\Debug\netcoreapp3.0\SortCompare.csprojAssemblyReference.cache
+C:\Users\steve.rossiter\source\repos\SortCompare\SortCompare\obj\Debug\netcoreapp3.0\SortCompare.AssemblyInfoInputs.cache
+C:\Users\steve.rossiter\source\repos\SortCompare\SortCompare\obj\Debug\netcoreapp3.0\SortCompare.AssemblyInfo.cs
+C:\Users\steve.rossiter\source\repos\SortCompare\SortCompare\obj\Debug\netcoreapp3.0\SortCompare.dll
+C:\Users\steve.rossiter\source\repos\SortCompare\SortCompare\obj\Debug\netcoreapp3.0\SortCompare.pdb

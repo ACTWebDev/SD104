@@ -1,0 +1,11 @@
+C:\Users\steve.rossiter\source\repos\ValueVsReference\ValueVsReference\bin\Debug\netcoreapp3.0\ValueVsReference.exe
+C:\Users\steve.rossiter\source\repos\ValueVsReference\ValueVsReference\bin\Debug\netcoreapp3.0\ValueVsReference.deps.json
+C:\Users\steve.rossiter\source\repos\ValueVsReference\ValueVsReference\bin\Debug\netcoreapp3.0\ValueVsReference.runtimeconfig.json
+C:\Users\steve.rossiter\source\repos\ValueVsReference\ValueVsReference\bin\Debug\netcoreapp3.0\ValueVsReference.runtimeconfig.dev.json
+C:\Users\steve.rossiter\source\repos\ValueVsReference\ValueVsReference\bin\Debug\netcoreapp3.0\ValueVsReference.dll
+C:\Users\steve.rossiter\source\repos\ValueVsReference\ValueVsReference\bin\Debug\netcoreapp3.0\ValueVsReference.pdb
+C:\Users\steve.rossiter\source\repos\ValueVsReference\ValueVsReference\obj\Debug\netcoreapp3.0\ValueVsReference.csprojAssemblyReference.cache
+C:\Users\steve.rossiter\source\repos\ValueVsReference\ValueVsReference\obj\Debug\netcoreapp3.0\ValueVsReference.AssemblyInfoInputs.cache
+C:\Users\steve.rossiter\source\repos\ValueVsReference\ValueVsReference\obj\Debug\netcoreapp3.0\ValueVsReference.AssemblyInfo.cs
+C:\Users\steve.rossiter\source\repos\ValueVsReference\ValueVsReference\obj\Debug\netcoreapp3.0\ValueVsReference.dll
+C:\Users\steve.rossiter\source\repos\ValueVsReference\ValueVsReference\obj\Debug\netcoreapp3.0\ValueVsReference.pdb
