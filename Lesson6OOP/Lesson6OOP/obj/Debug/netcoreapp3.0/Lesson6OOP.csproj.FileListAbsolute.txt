@@ -1,0 +1,11 @@
+C:\Users\steve.rossiter\source\repos\Lesson6OOP\Lesson6OOP\bin\Debug\netcoreapp3.0\Lesson6OOP.exe
+C:\Users\steve.rossiter\source\repos\Lesson6OOP\Lesson6OOP\bin\Debug\netcoreapp3.0\Lesson6OOP.deps.json
+C:\Users\steve.rossiter\source\repos\Lesson6OOP\Lesson6OOP\bin\Debug\netcoreapp3.0\Lesson6OOP.runtimeconfig.json
+C:\Users\steve.rossiter\source\repos\Lesson6OOP\Lesson6OOP\bin\Debug\netcoreapp3.0\Lesson6OOP.runtimeconfig.dev.json
+C:\Users\steve.rossiter\source\repos\Lesson6OOP\Lesson6OOP\bin\Debug\netcoreapp3.0\Lesson6OOP.dll
+C:\Users\steve.rossiter\source\repos\Lesson6OOP\Lesson6OOP\bin\Debug\netcoreapp3.0\Lesson6OOP.pdb
+C:\Users\steve.rossiter\source\repos\Lesson6OOP\Lesson6OOP\obj\Debug\netcoreapp3.0\Lesson6OOP.csprojAssemblyReference.cache
+C:\Users\steve.rossiter\source\repos\Lesson6OOP\Lesson6OOP\obj\Debug\netcoreapp3.0\Lesson6OOP.AssemblyInfoInputs.cache
+C:\Users\steve.rossiter\source\repos\Lesson6OOP\Lesson6OOP\obj\Debug\netcoreapp3.0\Lesson6OOP.AssemblyInfo.cs
+C:\Users\steve.rossiter\source\repos\Lesson6OOP\Lesson6OOP\obj\Debug\netcoreapp3.0\Lesson6OOP.dll
+C:\Users\steve.rossiter\source\repos\Lesson6OOP\Lesson6OOP\obj\Debug\netcoreapp3.0\Lesson6OOP.pdb

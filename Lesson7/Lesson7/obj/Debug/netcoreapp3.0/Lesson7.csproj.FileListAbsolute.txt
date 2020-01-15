@@ -1,0 +1,11 @@
+C:\Users\steve.rossiter\source\repos\Lesson7\Lesson7\bin\Debug\netcoreapp3.0\Lesson7.exe
+C:\Users\steve.rossiter\source\repos\Lesson7\Lesson7\bin\Debug\netcoreapp3.0\Lesson7.deps.json
+C:\Users\steve.rossiter\source\repos\Lesson7\Lesson7\bin\Debug\netcoreapp3.0\Lesson7.runtimeconfig.json
+C:\Users\steve.rossiter\source\repos\Lesson7\Lesson7\bin\Debug\netcoreapp3.0\Lesson7.runtimeconfig.dev.json
+C:\Users\steve.rossiter\source\repos\Lesson7\Lesson7\bin\Debug\netcoreapp3.0\Lesson7.dll
+C:\Users\steve.rossiter\source\repos\Lesson7\Lesson7\bin\Debug\netcoreapp3.0\Lesson7.pdb
+C:\Users\steve.rossiter\source\repos\Lesson7\Lesson7\obj\Debug\netcoreapp3.0\Lesson7.csprojAssemblyReference.cache
+C:\Users\steve.rossiter\source\repos\Lesson7\Lesson7\obj\Debug\netcoreapp3.0\Lesson7.AssemblyInfoInputs.cache
+C:\Users\steve.rossiter\source\repos\Lesson7\Lesson7\obj\Debug\netcoreapp3.0\Lesson7.AssemblyInfo.cs
+C:\Users\steve.rossiter\source\repos\Lesson7\Lesson7\obj\Debug\netcoreapp3.0\Lesson7.dll
+C:\Users\steve.rossiter\source\repos\Lesson7\Lesson7\obj\Debug\netcoreapp3.0\Lesson7.pdb
