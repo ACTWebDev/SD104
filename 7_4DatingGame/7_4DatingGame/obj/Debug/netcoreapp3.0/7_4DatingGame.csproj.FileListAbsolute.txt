@@ -1,0 +1,11 @@
+C:\Users\steve.rossiter\source\repos\7_4DatingGame\7_4DatingGame\bin\Debug\netcoreapp3.0\7_4DatingGame.exe
+C:\Users\steve.rossiter\source\repos\7_4DatingGame\7_4DatingGame\bin\Debug\netcoreapp3.0\7_4DatingGame.deps.json
+C:\Users\steve.rossiter\source\repos\7_4DatingGame\7_4DatingGame\bin\Debug\netcoreapp3.0\7_4DatingGame.runtimeconfig.json
+C:\Users\steve.rossiter\source\repos\7_4DatingGame\7_4DatingGame\bin\Debug\netcoreapp3.0\7_4DatingGame.runtimeconfig.dev.json
+C:\Users\steve.rossiter\source\repos\7_4DatingGame\7_4DatingGame\bin\Debug\netcoreapp3.0\7_4DatingGame.dll
+C:\Users\steve.rossiter\source\repos\7_4DatingGame\7_4DatingGame\bin\Debug\netcoreapp3.0\7_4DatingGame.pdb
+C:\Users\steve.rossiter\source\repos\7_4DatingGame\7_4DatingGame\obj\Debug\netcoreapp3.0\7_4DatingGame.csprojAssemblyReference.cache
+C:\Users\steve.rossiter\source\repos\7_4DatingGame\7_4DatingGame\obj\Debug\netcoreapp3.0\7_4DatingGame.AssemblyInfoInputs.cache
+C:\Users\steve.rossiter\source\repos\7_4DatingGame\7_4DatingGame\obj\Debug\netcoreapp3.0\7_4DatingGame.AssemblyInfo.cs
+C:\Users\steve.rossiter\source\repos\7_4DatingGame\7_4DatingGame\obj\Debug\netcoreapp3.0\7_4DatingGame.dll
+C:\Users\steve.rossiter\source\repos\7_4DatingGame\7_4DatingGame\obj\Debug\netcoreapp3.0\7_4DatingGame.pdb

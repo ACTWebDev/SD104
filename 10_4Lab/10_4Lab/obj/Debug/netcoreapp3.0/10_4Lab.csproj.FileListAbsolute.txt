@@ -1,0 +1,11 @@
+C:\Users\steve.rossiter\source\repos\10_4Lab\10_4Lab\obj\Debug\netcoreapp3.0\10_4Lab.csprojAssemblyReference.cache
+C:\Users\steve.rossiter\source\repos\10_4Lab\10_4Lab\obj\Debug\netcoreapp3.0\10_4Lab.AssemblyInfoInputs.cache
+C:\Users\steve.rossiter\source\repos\10_4Lab\10_4Lab\obj\Debug\netcoreapp3.0\10_4Lab.AssemblyInfo.cs
+C:\Users\steve.rossiter\source\repos\10_4Lab\10_4Lab\bin\Debug\netcoreapp3.0\10_4Lab.exe
+C:\Users\steve.rossiter\source\repos\10_4Lab\10_4Lab\bin\Debug\netcoreapp3.0\10_4Lab.deps.json
+C:\Users\steve.rossiter\source\repos\10_4Lab\10_4Lab\bin\Debug\netcoreapp3.0\10_4Lab.runtimeconfig.json
+C:\Users\steve.rossiter\source\repos\10_4Lab\10_4Lab\bin\Debug\netcoreapp3.0\10_4Lab.runtimeconfig.dev.json
+C:\Users\steve.rossiter\source\repos\10_4Lab\10_4Lab\bin\Debug\netcoreapp3.0\10_4Lab.dll
+C:\Users\steve.rossiter\source\repos\10_4Lab\10_4Lab\bin\Debug\netcoreapp3.0\10_4Lab.pdb
+C:\Users\steve.rossiter\source\repos\10_4Lab\10_4Lab\obj\Debug\netcoreapp3.0\10_4Lab.dll
+C:\Users\steve.rossiter\source\repos\10_4Lab\10_4Lab\obj\Debug\netcoreapp3.0\10_4Lab.pdb

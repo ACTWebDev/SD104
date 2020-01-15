@@ -1,0 +1,11 @@
+C:\Users\steve.rossiter\source\repos\8_5RealityTV\8_5RealityTV\bin\Debug\netcoreapp3.0\8_5RealityTV.exe
+C:\Users\steve.rossiter\source\repos\8_5RealityTV\8_5RealityTV\bin\Debug\netcoreapp3.0\8_5RealityTV.deps.json
+C:\Users\steve.rossiter\source\repos\8_5RealityTV\8_5RealityTV\bin\Debug\netcoreapp3.0\8_5RealityTV.runtimeconfig.json
+C:\Users\steve.rossiter\source\repos\8_5RealityTV\8_5RealityTV\bin\Debug\netcoreapp3.0\8_5RealityTV.runtimeconfig.dev.json
+C:\Users\steve.rossiter\source\repos\8_5RealityTV\8_5RealityTV\bin\Debug\netcoreapp3.0\8_5RealityTV.dll
+C:\Users\steve.rossiter\source\repos\8_5RealityTV\8_5RealityTV\bin\Debug\netcoreapp3.0\8_5RealityTV.pdb
+C:\Users\steve.rossiter\source\repos\8_5RealityTV\8_5RealityTV\obj\Debug\netcoreapp3.0\8_5RealityTV.csprojAssemblyReference.cache
+C:\Users\steve.rossiter\source\repos\8_5RealityTV\8_5RealityTV\obj\Debug\netcoreapp3.0\8_5RealityTV.AssemblyInfoInputs.cache
+C:\Users\steve.rossiter\source\repos\8_5RealityTV\8_5RealityTV\obj\Debug\netcoreapp3.0\8_5RealityTV.AssemblyInfo.cs
+C:\Users\steve.rossiter\source\repos\8_5RealityTV\8_5RealityTV\obj\Debug\netcoreapp3.0\8_5RealityTV.dll
+C:\Users\steve.rossiter\source\repos\8_5RealityTV\8_5RealityTV\obj\Debug\netcoreapp3.0\8_5RealityTV.pdb

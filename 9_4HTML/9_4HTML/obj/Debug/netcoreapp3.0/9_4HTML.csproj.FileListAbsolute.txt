@@ -1,0 +1,11 @@
+C:\Users\steve.rossiter\source\repos\9_4HTML\9_4HTML\bin\Debug\netcoreapp3.0\9_4HTML.exe
+C:\Users\steve.rossiter\source\repos\9_4HTML\9_4HTML\bin\Debug\netcoreapp3.0\9_4HTML.deps.json
+C:\Users\steve.rossiter\source\repos\9_4HTML\9_4HTML\bin\Debug\netcoreapp3.0\9_4HTML.runtimeconfig.json
+C:\Users\steve.rossiter\source\repos\9_4HTML\9_4HTML\bin\Debug\netcoreapp3.0\9_4HTML.runtimeconfig.dev.json
+C:\Users\steve.rossiter\source\repos\9_4HTML\9_4HTML\bin\Debug\netcoreapp3.0\9_4HTML.dll
+C:\Users\steve.rossiter\source\repos\9_4HTML\9_4HTML\bin\Debug\netcoreapp3.0\9_4HTML.pdb
+C:\Users\steve.rossiter\source\repos\9_4HTML\9_4HTML\obj\Debug\netcoreapp3.0\9_4HTML.csprojAssemblyReference.cache
+C:\Users\steve.rossiter\source\repos\9_4HTML\9_4HTML\obj\Debug\netcoreapp3.0\9_4HTML.AssemblyInfoInputs.cache
+C:\Users\steve.rossiter\source\repos\9_4HTML\9_4HTML\obj\Debug\netcoreapp3.0\9_4HTML.AssemblyInfo.cs
+C:\Users\steve.rossiter\source\repos\9_4HTML\9_4HTML\obj\Debug\netcoreapp3.0\9_4HTML.dll
+C:\Users\steve.rossiter\source\repos\9_4HTML\9_4HTML\obj\Debug\netcoreapp3.0\9_4HTML.pdb
