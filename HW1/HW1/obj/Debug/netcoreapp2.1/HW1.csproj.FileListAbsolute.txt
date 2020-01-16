@@ -1,0 +1,11 @@
+D:\Users\s.rossiter\source\repos\HW1\HW1\bin\Debug\netcoreapp2.1\HW1.deps.json
+D:\Users\s.rossiter\source\repos\HW1\HW1\bin\Debug\netcoreapp2.1\HW1.runtimeconfig.json
+D:\Users\s.rossiter\source\repos\HW1\HW1\bin\Debug\netcoreapp2.1\HW1.runtimeconfig.dev.json
+D:\Users\s.rossiter\source\repos\HW1\HW1\bin\Debug\netcoreapp2.1\HW1.dll
+D:\Users\s.rossiter\source\repos\HW1\HW1\bin\Debug\netcoreapp2.1\HW1.pdb
+D:\Users\s.rossiter\source\repos\HW1\HW1\obj\Debug\netcoreapp2.1\HW1.csprojAssemblyReference.cache
+D:\Users\s.rossiter\source\repos\HW1\HW1\obj\Debug\netcoreapp2.1\HW1.csproj.CoreCompileInputs.cache
+D:\Users\s.rossiter\source\repos\HW1\HW1\obj\Debug\netcoreapp2.1\HW1.AssemblyInfoInputs.cache
+D:\Users\s.rossiter\source\repos\HW1\HW1\obj\Debug\netcoreapp2.1\HW1.AssemblyInfo.cs
+D:\Users\s.rossiter\source\repos\HW1\HW1\obj\Debug\netcoreapp2.1\HW1.dll
+D:\Users\s.rossiter\source\repos\HW1\HW1\obj\Debug\netcoreapp2.1\HW1.pdb

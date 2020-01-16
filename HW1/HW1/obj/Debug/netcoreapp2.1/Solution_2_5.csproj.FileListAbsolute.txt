@@ -1,0 +1,11 @@
+D:\Users\s.rossiter\source\repos\HW1\HW1\bin\Debug\netcoreapp2.1\Solution_2_5.deps.json
+D:\Users\s.rossiter\source\repos\HW1\HW1\bin\Debug\netcoreapp2.1\Solution_2_5.runtimeconfig.json
+D:\Users\s.rossiter\source\repos\HW1\HW1\bin\Debug\netcoreapp2.1\Solution_2_5.runtimeconfig.dev.json
+D:\Users\s.rossiter\source\repos\HW1\HW1\bin\Debug\netcoreapp2.1\Solution_2_5.dll
+D:\Users\s.rossiter\source\repos\HW1\HW1\bin\Debug\netcoreapp2.1\Solution_2_5.pdb
+D:\Users\s.rossiter\source\repos\HW1\HW1\obj\Debug\netcoreapp2.1\Solution_2_5.csprojAssemblyReference.cache
+D:\Users\s.rossiter\source\repos\HW1\HW1\obj\Debug\netcoreapp2.1\Solution_2_5.csproj.CoreCompileInputs.cache
+D:\Users\s.rossiter\source\repos\HW1\HW1\obj\Debug\netcoreapp2.1\Solution_2_5.AssemblyInfoInputs.cache
+D:\Users\s.rossiter\source\repos\HW1\HW1\obj\Debug\netcoreapp2.1\Solution_2_5.AssemblyInfo.cs
+D:\Users\s.rossiter\source\repos\HW1\HW1\obj\Debug\netcoreapp2.1\Solution_2_5.dll
+D:\Users\s.rossiter\source\repos\HW1\HW1\obj\Debug\netcoreapp2.1\Solution_2_5.pdb
