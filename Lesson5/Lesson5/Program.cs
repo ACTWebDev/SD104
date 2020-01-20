@@ -25,6 +25,13 @@ namespace Lesson5
             public DateTime last_update;
         }
 
+        struct MovieData
+        {
+            public string MovieName;
+            public MovieRatings rating;
+            public bool myFavoriteMovie;
+        }
+
 
         static void Main(string[] args)
         {
@@ -82,10 +89,60 @@ namespace Lesson5
                 Console.WriteLine("I can't recommend this movie to friends.");
             }
 
+            //simple if statement
+            int myvalue = 20;
+            bool isLessThanTen = false;
+            
+            if (myvalue < 10)
+            {
+                isLessThanTen = true;
+            }
+            else
+            {
+                isLessThanTen = false;
+            }
+
+            //ternary short version
+            isLessThanTen = myvalue < 10 ? true: false;
+
+            //More Examples
+
+            MovieData greatEscape = new MovieData();
+            greatEscape.MovieName = "The Great Escape";
+            greatEscape.rating = MovieRatings.BestMovieEver;
+
+            MovieData inception = new MovieData();
+            inception.MovieName = "Inception";
+            inception.rating = MovieRatings.ReallyGood;
+
+            MovieData tlj = new MovieData();
+            tlj.MovieName = "The Last Jedi";
+            tlj.rating = MovieRatings.Terrible;
+
+            MovieData[] listOfMovies = { greatEscape, inception, tlj };
+
+            for (int i = 0; i < listOfMovies.Length; i++)
+            {
+                //if movie has rating of best movie ever, set myFavoriteMovie to true (shorthand version_
+              listOfMovies[i].myFavoriteMovie = listOfMovies[i].rating == MovieRatings.BestMovieEver ? true : false;
+
+            }
+
+            //if one of the movies in this list has myFavoriteMovie as true, print that out.
+            foreach(MovieData movie in listOfMovies)
+            {
+                if (movie.myFavoriteMovie == true)
+                {
+                    Console.WriteLine($"{movie.MovieName} is my favorite movie");
+                }
+            }
 
 
 
 
-    }
+
+
+
+        }
     }
 }
